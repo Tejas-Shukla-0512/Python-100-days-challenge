@@ -11,7 +11,8 @@ c = int(input("your input:"))
 d = float(input("your input:"))
 print(c+d)
 print(type(c),type(d))
-# another way is 
+# another way is to change it in print  
 x = input("type:")
 y = input("type:")
 print(int(x)+int(y))
+
